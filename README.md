@@ -1,0 +1,2 @@
+# resources
+GoLang resources Wiki
